@@ -1,0 +1,9 @@
+.section {
+  display: flex;
+}
+
+.section__wrap {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 70%;
+}

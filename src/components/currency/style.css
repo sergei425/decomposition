@@ -1,0 +1,8 @@
+.currency {
+  display: flex;
+  
+}
+
+.currency li + li{
+  margin-left: 20px;
+}
